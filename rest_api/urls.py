@@ -1,9 +1,17 @@
 from django.urls import path
-from rest_api.views import hello_world,reserva_de_banho
+
+from rest_api.views import  AgendamentoModelViewSet, ContatoModelViewSet
+
+from rest_framework.routers import SimpleRouter
 
 app_name = 'rest_api'
 
+router = SimpleRouter(trailing_slash=False)
+router.register('agendamento', AgendamentoModelViewSet)
+router.register('contatos', ContatoModelViewSet)
+
 urlpatterns = [
-    path('hello_world', hello_world, name='hello_world_api'),
-    path('reserva_de_banho/', reserva_de_banho, name='reserva_de_banho'),
+    
 ]
+
+urlpatterns += router.urls
