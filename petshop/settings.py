@@ -125,6 +125,9 @@ REST_FRAMEWORK = {
     'PAGE_SIZE': 10,
     "DATE_INPUT_FORMATS": ["%d/%m/%Y"],
     'DATE_FORMAT': '%d/%m/%Y',
-    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',
-    'PAGE_SIZE': 5,
+    'DEFAULT_AUTHENTICATION_CLASSES': [
+        'rest_framework.authentication.BasicAuthentication',
+        'rest_framework.authentication.TokenAuthentication',
+        'rest_framework.authentication.SessionAuthentication',
+    ]
     }
