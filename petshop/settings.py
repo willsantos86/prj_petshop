@@ -1,5 +1,4 @@
 
-
 from pathlib import Path, os
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
@@ -25,8 +24,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework.authtoken',
-    'bootstrap5',
     'rest_framework',
+    'bootstrap5',
     'base',
     'reserva',
     'rest_api',
