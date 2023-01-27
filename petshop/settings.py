@@ -23,7 +23,11 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+<<<<<<< HEAD
     'rest_framework.authtoken',
+=======
+    'bootstrap5',
+>>>>>>> parent of ab74d4c (Ajustanfo templates.)
     'rest_framework',
     'bootstrap5',
     'base',
