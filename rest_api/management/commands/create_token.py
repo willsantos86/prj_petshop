@@ -1,4 +1,4 @@
-from django.core.management.base import BaseCommand
+from django.core.management.base import BaseCommand,Token, User
 
 class Command(BaseCommand):
     help = 'Cria um novo token para ser usado'
