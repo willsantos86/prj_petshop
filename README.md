@@ -9,6 +9,12 @@
 - [Tecnologias Utilizadas](#Tecnologias-Utilizadas)
 - [Autor](#Autor)
 
+![Login](https://github.com/willsantos86/Gerenciador_de_Tarefas/blob/main/assets/login.png) 
+![Adicionar](https://github.com/willsantos86/Gerenciador_de_Tarefas/blob/main/assets/adicionar.png)
+![Listar](https://github.com/willsantos86/Gerenciador_de_Tarefas/blob/main/assets/listar.png)
+![Editar](https://github.com/willsantos86/Gerenciador_de_Tarefas/blob/main/assets/editar.png)
+![Colaborador](https://github.com/willsantos86/Gerenciador_de_Tarefas/blob/main/assets/cadastrar_colaborador.png)
+
 ## Sobre
 
 Sistema desenvolvido como parte prática da formação de Desenvolvedor Python da escola Ultima School.
