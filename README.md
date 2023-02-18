@@ -1,4 +1,6 @@
 
+![readme](https://github.com/willsantos86/projeto_-petshop/blob/main/assets/fotos/foto.png)
+
 # Pet shop Online - Sistema para reserva de serviço.
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/willsantos86/API_Escola/blob/main/LICENSE) 
 
@@ -9,11 +11,6 @@
 - [Tecnologias Utilizadas](#Tecnologias-Utilizadas)
 - [Autor](#Autor)
 
-![Login](https://github.com/willsantos86/Gerenciador_de_Tarefas/blob/main/assets/login.png) 
-![Adicionar](https://github.com/willsantos86/Gerenciador_de_Tarefas/blob/main/assets/adicionar.png)
-![Listar](https://github.com/willsantos86/Gerenciador_de_Tarefas/blob/main/assets/listar.png)
-![Editar](https://github.com/willsantos86/Gerenciador_de_Tarefas/blob/main/assets/editar.png)
-![Colaborador](https://github.com/willsantos86/Gerenciador_de_Tarefas/blob/main/assets/cadastrar_colaborador.png)
 
 ## Sobre
 
@@ -31,6 +28,12 @@ A aplicação consiste na criação de páginas para cadastro de clientes, conta
 - [x] Enviar mensagem (página de contato).
 - [x] Criar reserva para serviço de banho.
 - [x] API com os dados das reservas
+
+![Index](https://github.com/willsantos86/projeto_-petshop/blob/main/assets/fotos/Captura%20de%20tela%20de%202023-02-18%2018-27-19.png) 
+![Contatos](https://github.com/willsantos86/projeto_-petshop/blob/main/assets/fotos/Captura%20de%20tela%20de%202023-02-18%2018-27-41.png)
+![Reserva](https://github.com/willsantos86/projeto_-petshop/blob/main/assets/fotos/Captura%20de%20tela%20de%202023-02-18%2018-28-11.png)
+<!-- ![Editar](https://github.com/willsantos86/Gerenciador_de_Tarefas/blob/main/assets/editar.png)
+![Colaborador](https://github.com/willsantos86/Gerenciador_de_Tarefas/blob/main/assets/cadastrar_colaborador.png) -->
 
 # Tecnologias utilizadas
 ## Back end
