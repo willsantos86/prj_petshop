@@ -1,5 +1,5 @@
 
-# Sistema de Marcação de um Petshop
+# Pet shop Online - Sistema para reserva de serviço.
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/willsantos86/API_Escola/blob/main/LICENSE) 
 
 # Indice
