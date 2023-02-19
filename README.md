@@ -16,7 +16,7 @@
 
 Sistema desenvolvido como parte prática da formação de Desenvolvedor Python da escola Ultima School.
 O programa foi desenvolvido utilizando a linguagem python e o Django Rest framework, integrando os dados com o banco de dados SQLite3 e vinculando o Admin do Django com a API. Foi trabalhado os conceitos de serializers e viewsets seguindo boas práticas de programação.
-A aplicação consiste na criação de páginas para cadastro de clientes, contatos (fale conosco) e a página de reserva de serviços. As informações sobre as reservas são disponibilizadas através de uma API que, também, permiti a atualização dos dados aos usuários autenticados.
+A aplicação consiste na criação de páginas para cadastro de clientes, contatos (fale conosco) e a página de reserva de serviços. As informações sobre as reservas são disponibilizadas através de uma API que, também, permiti a atualização de seus dados aos usuários autenticados.
 
 
 ## Status
@@ -24,7 +24,7 @@ A aplicação consiste na criação de páginas para cadastro de clientes, conta
  
 ## Funcionalidades
 
-- [x] Cadastrar clientes
+- [x] Cadastrar cliente
 - [x] Enviar mensagem (página de contato).
 - [x] Criar reserva para serviço de banho.
 - [x] API com os dados das reservas
