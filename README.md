@@ -20,7 +20,7 @@ A aplicação consiste na criação de páginas para cadastro de clientes, conta
 
 
 ## Status
-	🚧 Gerenciador de Tarefas em construção...  🚧
+	🚧 Petshop online em contrução...  🚧
  
 ## Funcionalidades
 
